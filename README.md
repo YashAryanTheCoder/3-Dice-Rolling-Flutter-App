@@ -1,1 +1,1 @@
-# Las Vegas Dice App
+# Dice Rolling App
